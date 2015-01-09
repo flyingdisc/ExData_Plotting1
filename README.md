@@ -1,3 +1,6 @@
+# Exploratory Data Analysis Project 1
+This repository has solution to the Course Project #1. 
+
 ## Introduction
 
 This assignment uses data from
